@@ -1,5 +1,5 @@
 # FakeNewsDetection
-To detect fake news articles from the given dataset
+To detect fake news articles from the given dataset.
 
 ## Overview
 This project focuses on identifying fake news articles using machine learning techniques. The process involves text preprocessing, handling imbalanced data, and training classification models to achieve reliable predictions.
